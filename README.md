@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afmrafiulhassan&show_icons=true&locale=en" alt="afmrafiulhassan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afmrafiulhassan&" alt="afmrafiulhassan" /></p>
-[![@afmrafiulhassan's Holopin board](https://holopin.me/afmrafiulhassan)](https://holopin.io/@afmrafiulhassan)
