@@ -28,7 +28,7 @@
 
 [![@afmrafiulhassan's Holopin board](https://holopin.me/afmrafiulhassan)](https://holopin.io/@afmrafiulhassan)
 
-<p><img align="center" height="185" width="1200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuetexo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tuetexo" /></p>
+<p>&nbsp;<img align="center" height="185" width="1200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuetexo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tuetexo" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=afmrafiulhassan&show_icons=true&locale=en&theme=tokyonight" alt="afmrafiulhassan" /></p>
 
