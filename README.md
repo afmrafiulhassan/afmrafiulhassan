@@ -31,5 +31,3 @@
 <p><img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=afmrafiulhassan&show_icons=true&locale=en&theme=tokyonight" alt="afmrafiulhassan" /></p>
 
 <p><img align="center" height="200" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=afmrafiulhassan&theme=tokyonight" alt="afmrafiulhassan" /></p>
-
-[![@AFMRAFIULHASSAN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=afmrafiulhassan&&theme=xcode)](https://github.com/afmrafiulhassan)
