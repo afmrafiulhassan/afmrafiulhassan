@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently studying **Computer Science & Engineering (CSE) at American International University-Bangladesh**
 
-- 🌱 I’m currently learning **C#, Data Structure, Database etc.**
+- 🌱 I’m currently learning **Machine Learning, DevOps, CyberOps etc.**
 
 - 🕵🏼‍♂️ Interested in **Cyber Security.**
 
